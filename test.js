@@ -79,6 +79,8 @@ switch(switchcase)
 	case 100:
 	console.log("hundred");
 	break;
+	case 1000;
+	console.log("thousand");
 	default:
 	 console.log("not valid");
 	 break;
